@@ -1,6 +1,6 @@
 <h1 align="center">Savior Server</h1>
 <p align="center">
-  <img width="300" src="docs/logo.png" alt="logo">
+  <img width="300" src="docs/savior.png" alt="logo">
 </p>
 
 
@@ -16,7 +16,6 @@ perf: A code that improves performance
 style: A code that is related to styling
 test: Adding new test or making changes to existing test
 ```
-
 
 ## Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version >=12.0.0
